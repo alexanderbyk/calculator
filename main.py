@@ -19,3 +19,4 @@ if __name__ == '__main__':
   print(raznost(2,4))
   print(umnojeniye(2,4))
   print(deleniye(2,4))
+ggkgkg
